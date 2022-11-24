@@ -1,0 +1,312 @@
+body{
+    background-image: linear-gradient(90deg, #F2F2FF 0%, #EBFAFF 100%);
+}
+.header-page{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 15px 0px 15px 0px;
+    width: auto;
+    height: 75px;
+    max-width: 1140px;
+}
+.header-page img{
+    max-width: 100%;
+    padding-right: 77px;
+}
+.menu{
+    display: inline-block;
+    padding-left: 0%;
+}
+.menu li{
+    display: inline-block;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 1.5em;
+    padding: 0 20px 0 20px;
+    color: #8F91B0;
+}
+.Container3 img{
+    width: 6%;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    right: 13%;
+    top: 5%;
+}
+.Container4 {
+        width: 8%;
+        display: inline-block;
+        vertical-align: middle;
+        max-width: 100%;
+        height: auto;
+        position: absolute;
+        left: 8%;
+        top: 80%;
+}
+.main{
+    padding: 130px 0 130px 0;
+}
+.body{
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+.colum1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: center;
+}
+.Container2{
+    width: 8%;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    right: 50%;
+    top: 14%;
+}
+.p1{
+    height: 80px;
+}
+.khung{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 0px 0px 0px 15px;
+    border-style: solid;
+    border-width: 0px 0px 0px 3px;
+    border-color: #FFD43A;
+}
+.h4{
+    padding: 0;
+    margin: 0;
+    color: #2D1863;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1.5em;
+}
+.khungh2{
+    width: 100%;
+    margin-bottom: 20px; 
+    
+}
+.h2{
+    padding: 0%;
+    margin: 0%;
+    color: #2D1863;
+    font-size: 56px;
+    font-weight: 800;
+    line-height: 1.5em;
+}
+.khungp{
+    margin-bottom: 20px;
+    width: 100%;
+}
+.p{
+    padding: 0px 0px 30px 0px;
+    color: #8F91B0;
+    font-family: "Poppins", Sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 2.2em;
+    margin: 0;
+}
+.khungicon{
+    line-height: 1;
+    display: inline-block;
+    width: 100%;
+}
+.fa{
+    padding: 10px;
+    font-size: 18px;
+    width: 18px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+}
+.fa-facebook {
+    background: #30529c;
+    color: white;
+  }
+.fa-twitter {
+    background: #1da1f2;
+    color: white;
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+.fa-instagram{
+    background: #ca3174;
+    color: white;
+}
+.colum2{
+    display: inline-block;
+    max-width: 100%;
+    width: 100%;
+    padding: 0px 0px 0px 40px;
+    margin-bottom: 20px;
+}
+.getinformation{
+    padding: 30px 30px 30px 30px;
+    background-color: #FFFFFF;
+    border-radius: 20px 20px 20px 20px;
+}
+.infor{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+}
+.get{
+    padding-left: 0%;
+    margin-bottom: 20px;
+    width: 100%;
+    display: inline-block;
+}
+.label{
+    color: #8F91B0;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 2em;
+}
+.input{
+    background-color: #EFF5FF;
+    color: #8F91B0;
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    border-radius: 20px 20px 20px 20px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    height: 32px;
+    width: 95%;
+    padding: 6px 12px 6px 12px;
+    max-width: 100%;
+}
+.input1{
+    background-color: #EFF5FF;
+    color: #8F91B0;
+    border-style: solid;
+    border-width: 0px 0px 0px 0px;
+    border-radius: 20px 20px 20px 20px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    width: 471px;
+    height: 120px;
+    padding: 6px 12px 6px 12px;
+    max-width: 100%;
+}
+.button{
+    display: inline-block;
+    background-color: #6F34FE !important;
+    color: #ffffff !important;
+    border-radius: 20px 20px 20px 20px;
+    padding: 13px 30px 13px 30px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    text-decoration: none;
+}
+.button:hover{
+    background-color: #b2c942 !important;
+    color: #f10b0b !important;
+    transition: all 300ms linear;
+}
+#Containerpopup{
+    /* display: block; */
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+   /* opacity: 1;*/
+    /*pointer-events: all;*/
+}
+.remove.actived{
+    animation: appea 300ms ease-out;
+}
+.remove.unactived{
+    animation: hidden 300ms ease-out;
+}
+#Khungpopup{
+    background-color: #EBFAFF;
+    max-width: 30%;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+.Headerpopup{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 111, 0);
+    border-radius: 20px 20px 20px 20px;
+    margin: 10px 12px 0px 12px;
+}
+.Headerpopup h3{
+    padding-left: 10px;
+}
+button{
+    border-radius: 20px 20px 20px 20px;
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+}
+button .fa-times{
+    position: relative;
+    right: 8.5px;
+    top: -3px;
+}
+.Mainpopup img{
+    display: inline-block;
+    width: 100%;
+}
+.khungbutton2{
+    display: inline-block;
+    width: 100%;
+}
+.button2{
+    text-decoration: none;
+    background-color: #043df7 !important;
+    color: #ffffff !important;
+    border-radius: 20px 20px 20px 20px;
+    padding: 7px 53px 7px 53px;
+    font-family: "Poppins", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5em;
+    display: inline-block;
+    position: absolute;
+    left: 31%;
+    top: 90.8%;
+    width: 20%;
+    max-width: 100%;
+}
+
+
+
+
+
